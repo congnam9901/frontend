@@ -1,0 +1,322 @@
+header{
+    background: linear-gradient(rgba(67, 20, 105, 0.9), rgba(12, 3, 61, 0.9)) ,url(../images/anhnencua1.jpg);
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color: #b4a9bf;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #b4a9bf;
+}
+.container .logo1{
+    color: #b4a9bf;
+    font-size: 32px;
+    display: contents;
+}
+.container .btn{
+    color: #b4a9bf;
+    border-radius: 99px;
+    padding: 5px 30px;
+}
+.navbar-expand-sm .navbar-nav{
+    padding-left: 30%;
+}
+.container .nav-item{
+    padding: 7px;
+}
+/*Cont*/
+/* left */
+.col-md-6 .left{
+    color: white;
+}
+.left .l1{
+    background: #362983;
+    display: inline-block;
+    padding: 10px 15px;
+    border-radius: 99px;
+    font-size: 16px;
+    color: #d5d5ea;
+}
+.left .logo-l{
+    padding-right: 5px;
+}
+.left .l2{
+    font-size: 45px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.left .l3{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.left .btn-a{
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+    min-width: 160px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: #fff;
+    border-radius: 100px;
+    background-image: -webkit-linear-gradient(left,#21d397 0%,#7450fe 51%,#21d397 100%);
+    background-image: linear-gradient(to right,#21d397 0%,#7450fe 51%,#21d397 100%);
+    transition: all 500ms;
+}
+.left .b{
+    margin-left: 20px;
+}
+.cont .row{
+    margin-top: 10%;
+}
+.row .dau{
+    margin-top: 3%;
+}
+/* right*/
+.col-md-6 .right{
+    min-width: 700px;
+    margin-top: 25px;
+    margin-left: -100px;
+}
+/*----------------------------------------------*/
+/*content*/
+.content{
+    background: #1c0042;
+    color: #9791ab;
+    
+}
+.m1{
+    color:white;
+    font-size: 2rem;
+}
+.container .col-md-6{
+    text-align: initial;
+}
+.right1 .btn1{
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+    min-width: 160px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 100px;
+    background-image: -webkit-linear-gradient(left,#21d397 0%,#7450fe 51%,#21d397 100%);
+    background-image: linear-gradient(to right,#21d397 0%,#7450fe 51%,#21d397 100%);
+    transition: all 500ms;
+}
+.right1 .btn-a{
+    color: #fff;;
+}
+.left1 .duoihinh{
+    text-align: center;
+}
+.row .day{
+    margin: 20% 0 10% 0;
+}
+.row .day-top{
+    margin-top: 10%;
+}
+.row .logoxoay{
+    text-align: center;
+}
+.left2 .btn2{
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+    min-width: 160px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 100px;
+    background-image: -webkit-linear-gradient(left,#21d397 0%,#7450fe 51%,#21d397 100%);
+    background-image: linear-gradient(to right,#21d397 0%,#7450fe 51%,#21d397 100%);
+    transition: all 500ms;
+}
+.left2 .btn-b{
+    color:#fff;
+}
+.logoxoay{
+    text-align: center;
+}
+.logoxoay .xoay{
+    width: 145px;
+}
+.col-md-12{
+    text-align: center;  
+}
+.text-top{
+    text-align: center;
+    margin-bottom: 80px;
+}
+.t{
+    margin-left: 9rem;
+    margin-bottom: 20px;
+}
+.video{
+    margin: 150px 0 300px 0;
+}
+.m2{
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+span{
+    padding-left: 15px;
+}
+.lorem{
+    font-size: 16px;
+}
+.day2{
+    margin:100px 0 120px 0;
+}
+.m3{
+    color: #fff;
+    font-size: 18px;
+    margin-left: 104px;
+}
+.nam{
+    margin-top: 90px;
+}
+.col-md-6 .dt{
+    margin-left: 105px;
+}
+.day3{
+    margin-top: 50px;
+}
+.anhtext2{
+    margin-left: 140px;
+}
+dt text{
+ margin-bottom: 50px;
+}
+.thu{
+    margin-top: 80px;
+}
+.m5{
+    color: #7057f9;
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+.m6{
+    font-size: 14px;
+}
+.ong{
+    margin-bottom: 80px;
+}
+.baotrum{
+    margin-left: 80px;
+}
+.text3{
+    margin-top: 90px;
+}
+.text4{
+    margin-top: 100px;
+}
+.row .k{
+    border: 1px solid #21d397;
+    padding: 20px 20px;
+    border-radius: 10px;
+    
+}
+.row .k:hover{
+    background: #21d397;
+}
+.hinhnhieu .row{
+    margin-bottom: 20px;
+}
+.text5{
+    margin-top: 100px;
+}
+.cohinh{
+    padding: 0 10px;
+}
+.cohinh1{
+    font-size: 14px;
+    margin-top: 20px;
+}
+.m5{
+    font-size: 1.5rem;
+    color: #fff;
+    margin-top: 35px;
+    margin-bottom: 30px;
+    
+}
+.m7{
+    color: #7057f9;
+}
+.cohinh1 .btn1{
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+    min-width: 160px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 0 20px;
+    text-align: center;
+    text-transform: uppercase;
+    background-size: 200% auto;
+    color: #fff;
+    border-radius: 100px;
+    background-image: -webkit-linear-gradient(left,#21d397 0%,#7450fe 51%,#21d397 100%);
+    background-image: linear-gradient(to right,#21d397 0%,#7450fe 51%,#21d397 100%);
+    transition: all 500ms;
+
+}
+.btn-a{
+    color: #fff;
+}
+.text5 .btn1{
+    margin-top: 22px;
+}
+.container .nva1{
+   padding-right: 20px;
+}
+.logofooter .cuoi{
+    font-size: 12px;
+}
+.tancung{
+    color: #d5d5ea;
+}
+footer{
+    background: linear-gradient(rgba(67, 20, 105, 0.9), rgba(12, 3, 61, 0.9)) ,url(../images/footer-bg1.png);
+    padding: 100px 0 100px 0;
+}
+.chutrang{
+    color:#d5d5ea;
+}
+
+
+
